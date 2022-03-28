@@ -1,6 +1,6 @@
 # The Ads Lab public feedback, discussions and roadmap
 
-![The Ads Lab Analytics Dashboard](https://d2cs08tmn76rbv.cloudfront.net/00ah%2Ffile%2F3ffd9cdcdc1c1792eaa9d8e65fed37fa_Screen+Shot+2022-03-28+at+4.16.38+PM.png?response-content-disposition=inline%3Bfilename%3D%22Screen%20Shot%202022-03-28%20at%204.16.38%20PM.png%22%3B&response-content-type=image%2Fpng&Expires=1648510016&Signature=B15xBWXm3y9pqm03FqZmnSd-oxpVWLiNoOv8uJFDhaRwRKz5SD2gsk1GJZ1DFiqUjzPfSB-pcjyFd3BHuainz2SPp8FkKhLHXUYApapSiiXRX~a-~Jq0Fx2BEeXMxprrEpPpvRHTzXUWd7JqIxIIf6W7wfQdh38OcRfkjwz40c7rDVRwGDKkdc6vyyZlY46rD3A~WCojHna79jOr2GIRMOrLC3ks6Ztwf2h0kZB8wgPqHWMTb0BrH0z0JtA~xDzEdEySOODjQo8YY8gOyjh7c7UMYzVsyxVMaRFhUljDVhmrM9ft~la~tUx3Q5BNcz-ARE0E19Nhicus6~ZXurDa0g__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
+![The Ads Lab Analytics Dashboard](https://github.com/merchantprotocol/theadslab/blob/main/assets/dashboard.png)
 
 In this repository, you can find the [official AdsLab public feedback, discussions and roadmap](https://github.com/merchantprotocol/theadslab) for the following product areas, as well as an overall category for general product feedback:
 
