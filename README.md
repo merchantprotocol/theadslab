@@ -1,4 +1,4 @@
-# The Ads LAb public feedback, discussions and roadmap
+# The Ads Lab public feedback, discussions and roadmap
 
 In this repository, you can find the [official AdsLab public feedback, discussions and roadmap](https://github.com/merchantprotocol/theadslab) for the following product areas, as well as an overall category for general product feedback:
 
