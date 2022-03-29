@@ -82,6 +82,7 @@ The Ads Lab has major releases on a quarterly basis, and minor releases on a wee
 
 The following is a list of our current product areas:
 
+- **devops:** DevOps (Server, Databases)
 - **analytics:** Identity Resolution Analytics (Matomo, Integrations, Sync)
 - **email:** Cold Email Remarketing (Sending Reputation, ESP, SMTP, Campaigns, etc)
 - **other:** Other features
