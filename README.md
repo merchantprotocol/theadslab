@@ -1,8 +1,8 @@
 # The Ads Lab public feedback, discussions and roadmap
 
-Thanks for joining the community discussion surrounding The Ads Lab! This repo is where you can find support for common issues, report bugs and be in-the-know when it comes to new features being released. Here's a quick video to explain [how to use this repo](https://jumpshare.com/v/fQbHMB7BfBcR1aVBALZX).
+_**Please watch this video to first.**_
 
-![The Ads Lab Analytics Dashboard](https://github.com/merchantprotocol/theadslab/blob/main/assets/dashboard.png)
+[![Introduction to this repo](https://github.com/merchantprotocol/theadslab/raw/main/assets/introduction-to-public-repo.png)](https://www.youtube.com/watch?v=BImoCkXO8Uw)
 
 In this repository, you can find the [official AdsLab public feedback, discussions and roadmap](https://github.com/merchantprotocol/theadslab) for the following product areas, as well as an overall category for general product feedback:
 
